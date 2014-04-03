@@ -7,6 +7,7 @@ gem 'rails', '3.2.17'
 
 gem 'mysql2'
 gem 'devise', '~> 3.0.0'
+gem "cancan"
 
 
 # Gems used only for assets and not required
